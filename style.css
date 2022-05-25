@@ -1040,3 +1040,16 @@ h4 {
         text-align: center;
     }
 }
+
+blockquote {
+    border-left: none;
+    color: #575757;
+    font-size: 18px;
+    font-style: italic;
+}
+
+figcaption {
+    font-size: 19px;
+    margin-top: -30px;
+    color: #575757;
+}
