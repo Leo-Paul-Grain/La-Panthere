@@ -1052,6 +1052,7 @@ figcaption {
     color: #575757;
 }
 
-#contact-text {
+.contact-text {
     color: #000000!important;
+    font-weight: bold;
 }
